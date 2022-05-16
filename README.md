@@ -1,5 +1,5 @@
 # TouchDesigner, the learning path
-A collection of experiments done in touchDesigner 
+A collection of experiments made in touchDesigner 
 
 <h2>SPIKYBOIS</h2>
   

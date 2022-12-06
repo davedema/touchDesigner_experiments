@@ -9,6 +9,18 @@ A collection of experiments made in touchDesigner
   
 ![SPIKYBOI ICE](https://user-images.githubusercontent.com/24576858/132219378-daf6ddba-fc9b-4804-bcff-d9f8361c4c42.gif)
 
+
+<h2>TRAVEL</h2>
+Music written by me using <i>VCV Rack 2</i>
+<br>
+Inspired by the works of Brian Eno
+<br>
+<br>
+You can download the VCV Rack patch <a href="https://patchstorage.com/generative-drone-ambient-music-free-modules/"> here </a> 
+
+https://user-images.githubusercontent.com/24576858/205918743-888ea142-1070-45d1-8ac4-9b176beb97fd.mp4
+
+
 <h2>SUN<h2>
   
 Built following the ideas presented in the <a href="https://www.youtube.com/channel/UCONptu0J1PCrW9YfBtSdqjA">tutorials</a> by Bileam Tschepe aka elekktronaut  
@@ -22,15 +34,6 @@ Built following the ideas presented in the <a href="https://www.youtube.com/chan
 ![BrokenSun_SparkVideo](https://user-images.githubusercontent.com/24576858/131109427-592e436c-cd61-4820-9c19-a5d6d7d09d17.gif)
 
 
-<h2>Travel</h2>
-Music written by me using <i>VCV Rack 2</i>
-<br>
-Inspired by the works of Brian Eno
-<br>
-<br>
-You can download the VCV Rack patch <a href="https://patchstorage.com/generative-drone-ambient-music-free-modules/"> here </a> 
-
-https://user-images.githubusercontent.com/24576858/205918743-888ea142-1070-45d1-8ac4-9b176beb97fd.mp4
 
 
 

@@ -23,9 +23,11 @@ Built following the ideas presented in the <a href="https://www.youtube.com/chan
 
 
 <h2>MAPS</h2>
-  Music written by me using <i>VCV Rack 2</i>
+Music written by me using <i>VCV Rack 2</i>
 <br>
 Inspired by the works of Brian Eno
+<br>
+  <a href="https://patchstorage.com/generative-drone-ambient-music-free-modules/"> VCV Rack Patch </a> 
 
 https://user-images.githubusercontent.com/24576858/205918743-888ea142-1070-45d1-8ac4-9b176beb97fd.mp4
 

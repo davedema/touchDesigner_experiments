@@ -33,6 +33,12 @@ Inspired by the works of <a href="https://www.instagram.com/holyhima/">Rahima</a
 I was fashinated by the colors of her works and the phisical behaviour of water colors and water drops in general</br>
 clearly my version doesn't compete with the real thing but I had fun experimenting with it!
 
+A series of water drops fall on the canvas, outlining the shapes of the underlying image.
+#patch commands: press 1 to refresh
+
+https://user-images.githubusercontent.com/24576858/205928474-2b21ed05-988d-43f1-93b5-1f1a23400812.mp4
+
+
 ![drop painting](https://user-images.githubusercontent.com/24576858/205927896-7d9493ff-70bd-4855-9ae7-7e4a6ef90823.png)
 
 

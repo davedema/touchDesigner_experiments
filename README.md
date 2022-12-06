@@ -10,6 +10,14 @@ A collection of experiments made in touchDesigner
 ![SPIKYBOI ICE](https://user-images.githubusercontent.com/24576858/132219378-daf6ddba-fc9b-4804-bcff-d9f8361c4c42.gif)
 
 
+<h2>void</h2>
+Music written by me using <i>VCV Rack 2</i>
+<br>
+You can download the VCV Rack patch <a href="https://patchstorage.com/generative-drone-ambient-music-free-modules/"> here </a> 
+
+https://user-images.githubusercontent.com/24576858/205923223-32c66006-debd-4857-9160-cc535ea62abd.mp4
+
+
 <h2>TRAVEL</h2>
 Music written by me using <i>VCV Rack 2</i>
 <br>

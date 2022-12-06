@@ -27,7 +27,8 @@ Music written by me using <i>VCV Rack 2</i>
 <br>
 Inspired by the works of Brian Eno
 <br>
-  <a href="https://patchstorage.com/generative-drone-ambient-music-free-modules/"> VCV Rack Patch </a> 
+<br>
+You can download the VCV Rack patch <a href="https://patchstorage.com/generative-drone-ambient-music-free-modules/"> here </a> 
 
 https://user-images.githubusercontent.com/24576858/205918743-888ea142-1070-45d1-8ac4-9b176beb97fd.mp4
 

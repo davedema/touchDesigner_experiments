@@ -2,9 +2,12 @@
 A collection of experiments made in touchDesigner 
 
 
-<h1>WORKING_ON (UNDER CONSTRUCTION)</H1>
+<h1>WORKING_ON (UNDER CONSTRUCTION)</h1>
+<br>
 camera geo instancing
-![Immagine 2022-12-10 115522](https://user-images.githubusercontent.com/24576858/206851614-a825e646-a3c6-49c3-8dd7-a649875dfbcc.png)
+<br>
+
+![geonInstancing](https://user-images.githubusercontent.com/24576858/206851731-24ce591c-b813-4ea0-8f08-94a90eea8c78.gif)
 
 
 <h1>COMPLETED EXPERIMENTS</H1>
